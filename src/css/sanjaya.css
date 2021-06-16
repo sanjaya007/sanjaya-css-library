@@ -166,11 +166,23 @@
   flex-direction: var(--fdcr);
 }
 
+.flex-css-start {
+  display: var(--fx);
+  justify-content: var(--jcfs);
+  align-items: var(--aic);
+}
+
 .flex-css-row-start {
   display: var(--fx);
   justify-content: var(--jcfs);
   align-items: var(--aic);
   flex-direction: var(--fdr);
+}
+
+.flex-css-end {
+  display: var(--fx);
+  justify-content: var(--jcfe);
+  align-items: var(--aic);
 }
 
 .flex-css-row-end {
@@ -341,11 +353,23 @@
   flex-direction: var(--fdcr);
 }
 
+.flex-top-start {
+  display: var(--fx);
+  justify-content: var(--jcfs);
+  align-items: var(--aifs);
+}
+
 .flex-top-row-start {
   display: var(--fx);
   justify-content: var(--jcfs);
   align-items: var(--aifs);
   flex-direction: var(--fdr);
+}
+
+.flex-top-end {
+  display: var(--fx);
+  justify-content: var(--jcfe);
+  align-items: var(--aifs);
 }
 
 .flex-top-row-end {
@@ -516,11 +540,23 @@
   flex-direction: var(--fdcr);
 }
 
+.flex-bottom-start {
+  display: var(--fx);
+  justify-content: var(--jcfs);
+  align-items: var(--aife);
+}
+
 .flex-bottom-row-start {
   display: var(--fx);
   justify-content: var(--jcfs);
   align-items: var(--aife);
   flex-direction: var(--fdr);
+}
+
+.flex-bottom-end {
+  display: var(--fx);
+  justify-content: var(--jcfe);
+  align-items: var(--aife);
 }
 
 .flex-bottom-row-end {
