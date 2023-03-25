@@ -31,6 +31,10 @@ h1 {
   margin-bottom: 50px;
 }
 
+.container.auto-height {
+  height: auto;
+}
+
 .container.wrap {
   height: 200px;
 }
@@ -39,6 +43,16 @@ h1 {
   height: 70px;
   width: 70px;
   box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
+}
+
+.grid-box {
+  height: 100px;
+  width: auto;
+}
+
+.grid-box-1 {
+  height: auto;
+  width: 200px;
 }
 
 .container.wrap .box {
