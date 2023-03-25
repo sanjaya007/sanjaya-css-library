@@ -4897,7 +4897,7 @@
 
         .container {
           background-color: #7dc2ad;
-          height: 600px;
+          height: 400px;
           width: 600px;
           padding: 0px;
           box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
