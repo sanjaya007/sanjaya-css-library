@@ -4886,6 +4886,7 @@
 
         h3 {
           color: #e67e22;
+          margin-bottom: 6px;
           text-align: center;
         }
 
