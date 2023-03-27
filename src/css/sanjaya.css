@@ -1302,67 +1302,6 @@
   grid-column-end: auto;
 }
 
-/* grid template rows */
-.grid-rows-1 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr1);
-}
-
-.grid-rows-2 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr2);
-}
-
-.grid-rows-3 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr3);
-}
-
-.grid-rows-4 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr4);
-}
-
-.grid-rows-5 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr5);
-}
-
-.grid-rows-6 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr6);
-}
-
-.grid-rows-7 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr7);
-}
-
-.grid-rows-8 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr8);
-}
-
-.grid-rows-9 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr9);
-}
-
-.grid-rows-10 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr10);
-}
-
-.grid-rows-11 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr11);
-}
-
-.grid-rows-12 {
-  display: var(--gd);
-  grid-template-rows: var(--gtr12);
-}
-
 /* -------------------- individual grid --------------------  */
 .grid-justify-center {
   justify-content: var(--gjcc);
