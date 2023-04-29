@@ -1,12 +1,15 @@
 # Sanjaya CSS Library
+
 Flex / Grid Demo - [https://sanjaya-flex-library.netlify.app/](https://sanjaya-flex-library.netlify.app/)
 
 ## CDN Link
+
 ```js
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sanjaya007/sanjaya-css-library@3.0/dist/css/sanjaya.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sanjaya007/sanjaya-css-library@4.0/dist/css/sanjaya.min.css" crossorigin="anonymous">
 ```
 
 ## Features
+
 - Displays
 - Flex
 - Grid
@@ -15,6 +18,7 @@ Flex / Grid Demo - [https://sanjaya-flex-library.netlify.app/](https://sanjaya-f
 - Fonts / Text
 - Positions
 - Transitions
+- Animations
 - Spacings(Margin / Padding)
 - Screens
 - Borders
