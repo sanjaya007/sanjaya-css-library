@@ -1,6 +1,6 @@
 # Sanjaya CSS Library
 
-Flex / Grid Demo - [https://sanjaya-flex-library.netlify.app/](https://sanjaya-flex-library.netlify.app/)
+Flex / Grid Demo - [https://sanjaya-css-library.netlify.app/](https://sanjaya-css-library.netlify.app/)
 
 ## CDN Link
 
