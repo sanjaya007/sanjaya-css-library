@@ -5,7 +5,7 @@ Flex / Grid Demo - [https://sanjaya-css-library.netlify.app/](https://sanjaya-cs
 ## CDN Link
 
 ```js
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sanjaya007/sanjaya-css-library@4.0/dist/css/sanjaya.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sanjaya007/sanjaya-css-library@4.0/dist/css/sanjaya.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 ```
 
 ## Features
